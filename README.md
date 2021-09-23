@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chadradams
-- 👀 I’m interested in User Experience, Linux design, and Data Visualization.
-- 🌱 I’m currently learning Business Administration.
-- 💞️ I’m looking to collaborate on Linux design.
+- 👀 I’m interested in **User Experience**, **Linux design**, and **Data Visualization**.
+- 🌱 I’m currently learning **Business Administration**.
+- 💞️ I’m looking to collaborate on Linux app design.
 - 📫 How to reach me: [https://chadadams.com](https://chadadams.com) | [https://www.linkedin.com/in/chadradams/](https://www.linkedin.com/in/chadradams/)
 
 <!---
