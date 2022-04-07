@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chadradams
-- 👀 I’m interested in **User Experience**, **iOS design**.
+- 👀 I’m interested in **User Experience**,, **Data Visualization**, **iOS design**.
 - 🌱 I’m currently learning **Business Administration**.
 - 💞️ I’m looking to collaborate on Linux app design.
 - 📫 How to reach me: [https://chadadams.com](https://chadadams.com) | [https://www.linkedin.com/in/chadradams/](https://www.linkedin.com/in/chadradams/)
